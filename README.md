@@ -35,6 +35,15 @@ Menyimpan seluruh pembelian sebelumnya sehingga pengguna dapat melakukan pembeli
 
 ---
 
+## FLOW
+
+Berikut adalah alur pengguna (User Flow) dari aplikasi kami:
+
+![User Flow Bagian 1](./Images/User_flow1.png)
+
+![User Flow Bagian 2](./Images/User_flow2.png)
+
+---
 ## 👥 Kelompok 7 - Adudu
 
 | NIM       | Nama                  |
