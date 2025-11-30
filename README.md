@@ -38,14 +38,22 @@ Menyimpan seluruh pembelian sebelumnya sehingga pengguna dapat melakukan pembeli
 ## FLOW
 
 Berikut adalah alur pengguna (User Flow) dari aplikasi kami:
-
+### Bagian 1
 ![User Flow Bagian 1](./Images/User_flow1.png)
 
+### Bagian 2
 ![User Flow Bagian 2](./Images/User_flow2.png)
 
 
 Berikut adalah alur kerja (Task Flow) dari aplikasi kami:
-![Task Flow Bagian 1](./Images/Taskflow1.png)
+### Bagian 1
+![Task Flow 1](./Images/Taskflow1.png)
+
+### Bagian 2
+![Task Flow 2](./Images/Taskflow2.png)
+
+### Bagian 3
+![Task Flow 3](./Images/Taskflow3.png)
 
 ---
 ## 👥 Kelompok 7 - Adudu
