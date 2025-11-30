@@ -43,6 +43,10 @@ Berikut adalah alur pengguna (User Flow) dari aplikasi kami:
 
 ![User Flow Bagian 2](./Images/User_flow2.png)
 
+
+Berikut adalah alur kerja (Task Flow) dari aplikasi kami:
+![Task Flow Bagian 1](./Images/Taskflow1.png)
+
 ---
 ## 👥 Kelompok 7 - Adudu
 
