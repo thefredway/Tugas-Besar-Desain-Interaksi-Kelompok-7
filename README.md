@@ -47,7 +47,7 @@ Berikut adalah alur pengguna (User Flow) dari aplikasi kami:
 
 Berikut adalah alur kerja (Task Flow) dari aplikasi kami:
 ### Bagian 1
-![Task Flow 1](./Images/Taskflow1.png)
+![Task Flow 1](./Images/Flow1.png)
 
 ### Bagian 2
 ![Task Flow 2](./Images/Taskflow2.png)
