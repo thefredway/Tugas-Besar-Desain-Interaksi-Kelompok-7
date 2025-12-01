@@ -35,9 +35,7 @@ Untuk pengiriman instan tersedia pelacakan kurir melalui peta.
 Menyimpan seluruh pembelian sebelumnya sehingga pengguna dapat melakukan pembelian ulang dengan cepat dan memantau histori penggunaan obat.
 
 ---
-## 🧩 Metodologi Desain (Ringkas)
-
-Proses perancangan Farmago mengikuti kerangka Double Diamond untuk memastikan solusi yang dihasilkan benar-benar berpusat pada kebutuhan pengguna.
+## 🧩 Metodologi Desain
 
 ### 1. Discover (Menemukan)
 
