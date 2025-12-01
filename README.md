@@ -64,7 +64,7 @@ Menghasilkan ide dan alternatif solusi melalui brainstorming serta membuat lo-fi
 Melakukan usability testing, memperbaiki desain berdasarkan masukan, dan membuat hi-fi prototype sebagai representasi visual akhir dari aplikasi.
 
 ---
-## FLOW
+## 🧭 User Flow & Task Flow
 
 Berikut adalah alur pengguna (User Flow) dari aplikasi kami:
 ### Bagian 1
