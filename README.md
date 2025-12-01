@@ -4,6 +4,7 @@ Farmago adalah aplikasi kesehatan digital yang menggabungkan pemeriksaan gejala,
 
 ---
 
+
 ## ⭐ Fitur Utama
 
 ### 1. Pemeriksaan Gejala
@@ -34,7 +35,27 @@ Untuk pengiriman instan tersedia pelacakan kurir melalui peta.
 Menyimpan seluruh pembelian sebelumnya sehingga pengguna dapat melakukan pembelian ulang dengan cepat dan memantau histori penggunaan obat.
 
 ---
+## 🧩 Metodologi Desain (Ringkas)
 
+Proses perancangan Farmago mengikuti kerangka Double Diamond untuk memastikan solusi yang dihasilkan benar-benar berpusat pada kebutuhan pengguna.
+
+### 1. Discover (Menemukan)
+
+Mengidentifikasi masalah melalui observasi perilaku pengguna serta wawancara terkait kesulitan mencari informasi kesehatan dan membeli obat secara online.
+
+### 2. Define (Menentukan)
+
+Merumuskan masalah inti melalui analisis pain points dan pemetaan customer journey dari munculnya gejala hingga proses pembelian obat.
+
+### 3. Develop (Mengembangkan)
+
+Menghasilkan ide dan alternatif solusi melalui brainstorming serta membuat lo-fi prototype untuk memvalidasi alur utama aplikasi.
+
+### 4. Deliver (Menyampaikan)
+
+Melakukan usability testing, memperbaiki desain berdasarkan masukan, dan membuat hi-fi prototype sebagai representasi visual akhir dari aplikasi.
+
+---
 ## FLOW
 
 Berikut adalah alur pengguna (User Flow) dari aplikasi kami:
