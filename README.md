@@ -4,14 +4,15 @@ Farmago adalah aplikasi kesehatan digital yang menggabungkan pemeriksaan gejala,
 
 ---
 ## ❓ Mengapa Farmago Diperlukan?
-### Informasi kesehatan online sering tidak jelas dan membingungkan, sehingga pengguna kesulitan menilai gejala dengan benar.
-### Alur dari cek gejala → rekomendasi obat → pembelian → pelacakan masih terpisah-pisah di banyak platform.
-### Banyak platform tidak menyediakan detail lengkap obat seperti dosis, komposisi, efek samping, dan peringatan.
-### Pengguna berisiko melakukan self-medication yang salah karena kurangnya panduan yang aman dan terstruktur.
-### Saat kondisi tubuh sedang sakit, akses ke apotek fisik menjadi sulit, sehingga layanan digital yang terarah sangat dibutuhkan.
-### Pelacakan pesanan tidak selalu transparan, membuat pengguna bingung dengan status pembelian mereka.
-### Tidak semua layanan menyediakan riwayat pembelian, padahal penting untuk repeat order dan pengecekan obat sebelumnya.
-### Tidak ada sistem triase sederhana yang membantu pengguna mengetahui apakah perlu ke dokter atau cukup swamedikasi.
+1. Informasi kesehatan online sering tidak jelas dan membingungkan, sehingga pengguna kesulitan menilai gejala dengan benar.
+2. Alur dari cek gejala → rekomendasi obat → pembelian → pelacakan masih terpisah-pisah di banyak platform.
+3. Banyak platform tidak menyediakan detail lengkap obat seperti dosis, komposisi, efek samping, dan peringatan.
+4. Pengguna berisiko melakukan self-medication yang salah karena kurangnya panduan yang aman dan terstruktur.
+5. Saat kondisi tubuh sedang sakit, akses ke apotek fisik menjadi sulit, sehingga layanan digital yang terarah sangat dibutuhkan.
+6. Pelacakan pesanan tidak selalu transparan, membuat pengguna bingung dengan status pembelian mereka.
+7. Tidak semua layanan menyediakan riwayat pembelian, padahal penting untuk repeat order dan pengecekan obat sebelumnya.
+8. Tidak ada sistem triase sederhana yang membantu pengguna mengetahui apakah perlu ke dokter atau cukup swamedikasi.
+   
 ---
 
 ## ⭐ Fitur Utama
