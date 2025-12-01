@@ -3,7 +3,16 @@
 Farmago adalah aplikasi kesehatan digital yang menggabungkan pemeriksaan gejala, rekomendasi obat, dan layanan pembelian obat online dalam satu platform terintegrasi. Aplikasi ini dirancang untuk membantu pengguna melakukan penanganan awal kondisi kesehatan ringan secara aman, informatif, dan efisien.
 
 ---
-
+## ❓ Mengapa Farmago Diperlukan?
+### Informasi kesehatan online sering tidak jelas dan membingungkan, sehingga pengguna kesulitan menilai gejala dengan benar.
+### Alur dari cek gejala → rekomendasi obat → pembelian → pelacakan masih terpisah-pisah di banyak platform.
+### Banyak platform tidak menyediakan detail lengkap obat seperti dosis, komposisi, efek samping, dan peringatan.
+### Pengguna berisiko melakukan self-medication yang salah karena kurangnya panduan yang aman dan terstruktur.
+### Saat kondisi tubuh sedang sakit, akses ke apotek fisik menjadi sulit, sehingga layanan digital yang terarah sangat dibutuhkan.
+### Pelacakan pesanan tidak selalu transparan, membuat pengguna bingung dengan status pembelian mereka.
+### Tidak semua layanan menyediakan riwayat pembelian, padahal penting untuk repeat order dan pengecekan obat sebelumnya.
+### Tidak ada sistem triase sederhana yang membantu pengguna mengetahui apakah perlu ke dokter atau cukup swamedikasi.
+---
 
 ## ⭐ Fitur Utama
 
