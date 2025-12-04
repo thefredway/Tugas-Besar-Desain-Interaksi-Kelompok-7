@@ -1,4 +1,4 @@
-# Farmago - Digital Health & Online Pharmacy Assistant
+# 💊 Farmago – Digital Health & Online Pharmacy Assistant
 
 Farmago adalah aplikasi kesehatan digital yang menggabungkan pemeriksaan gejala, rekomendasi obat, dan layanan pembelian obat online dalam satu platform terintegrasi. Aplikasi ini dirancang untuk membantu pengguna melakukan penanganan awal kondisi kesehatan ringan secara aman, informatif, dan efisien.
 
