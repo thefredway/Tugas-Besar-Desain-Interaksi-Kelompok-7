@@ -85,6 +85,14 @@ Berikut adalah alur kerja (Task Flow) dari aplikasi kami:
 ![Task Flow 3](./Images/Taskflow3.png)
 
 ---
+
+## Desain dan Prototype
+
+### Link Proposal
+https://docs.google.com/document/d/1F0o2LmvUiGSR0XbLI7vFZm9Fi5wlZJ8DrCr6oItRYxw/edit?usp=sharing
+
+---
+
 ## 👥 Kelompok 7 - Adudu
 
 | NIM       | Nama                  |
