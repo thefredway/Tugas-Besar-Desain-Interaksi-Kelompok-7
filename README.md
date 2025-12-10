@@ -97,6 +97,9 @@ Berikut adalah alur kerja (Task Flow) dari aplikasi kami:
 ### Link Proposal
 https://docs.google.com/document/d/1F0o2LmvUiGSR0XbLI7vFZm9Fi5wlZJ8DrCr6oItRYxw/edit?usp=sharing
 
+## Link Laporan Akhir
+https://docs.google.com/document/d/16EY1JolF2ZnHB60FbXIj0lPLmi-tpdUMdvj__V4GVos/edit?usp=sharing
+
 ### Link Figma LoFi
 https://www.figma.com/design/aBVzhicj3XTm5cRiIfHLo0/Farmago-LoFi?node-id=0-1&t=p5zjPRND8f19Laj6-1
 
