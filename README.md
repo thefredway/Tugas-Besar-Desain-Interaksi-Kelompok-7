@@ -97,6 +97,12 @@ Berikut adalah alur kerja (Task Flow) dari aplikasi kami:
 ### Link Proposal
 https://docs.google.com/document/d/1F0o2LmvUiGSR0XbLI7vFZm9Fi5wlZJ8DrCr6oItRYxw/edit?usp=sharing
 
+### Link Figma LoFi
+https://www.figma.com/design/aBVzhicj3XTm5cRiIfHLo0/Farmago-LoFi?node-id=0-1&t=p5zjPRND8f19Laj6-1
+
+### Link Figma HiFi
+https://www.figma.com/design/VfSddxHJlyzSJewTeFEwJL/Farmago-HiFi?node-id=0-1&t=x245O4WVLdTKDHa8-1
+
 ---
 
 ## 👥 Kelompok 7 - Adudu
