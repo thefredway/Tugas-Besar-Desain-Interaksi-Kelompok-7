@@ -97,7 +97,7 @@ Berikut adalah alur kerja (Task Flow) dari aplikasi kami:
 ### Link Proposal
 https://docs.google.com/document/d/1F0o2LmvUiGSR0XbLI7vFZm9Fi5wlZJ8DrCr6oItRYxw/edit?usp=sharing
 
-## Link Laporan Akhir
+### Link Laporan Akhir
 https://docs.google.com/document/d/16EY1JolF2ZnHB60FbXIj0lPLmi-tpdUMdvj__V4GVos/edit?usp=sharing
 
 ### Link Figma LoFi
@@ -106,7 +106,19 @@ https://www.figma.com/design/aBVzhicj3XTm5cRiIfHLo0/Farmago-LoFi?node-id=0-1&t=p
 ### Link Figma HiFi
 https://www.figma.com/design/VfSddxHJlyzSJewTeFEwJL/Farmago-HiFi?node-id=0-1&t=x245O4WVLdTKDHa8-1
 
+### Link Video Explainer
+
 ---
+## Kartu Asistensi
+
+### Asistensi 1
+https://docs.google.com/document/d/1vXVIIgoDnqGEO9oAJ6_XuogjuwzthsiyDYT6su180z0/edit?usp=sharing
+
+### Asistensi 2
+https://docs.google.com/document/d/16nUe9MV-1H-M0IJYG8Ci8mfSr5Wdf-x0ilM7TvhgK5M/edit?usp=sharing
+
+### Asistensi 3
+https://docs.google.com/document/d/1knd8ETWGiNysPDbN3zmONrQg8p-fReixd4v_vYBa7Cc/edit?usp=sharing
 
 ## 👥 Kelompok 7 - Adudu
 
