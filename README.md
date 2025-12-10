@@ -63,7 +63,8 @@ Menghasilkan ide dan alternatif solusi melalui brainstorming serta membuat lo-fi
 
 Melakukan usability testing, memperbaiki desain berdasarkan masukan, dan membuat hi-fi prototype sebagai representasi visual akhir dari aplikasi.
 
-### 5. Tools yang Digunakan
+---
+### 🛠️Tools yang Digunakan
 * **Figma**: Untuk desain UI/UX dan Prototyping.
 * **Github**: Untuk manajemen versi dan dokumentasi.
 * **Google Docs**: Untuk penyusunan laporan.
