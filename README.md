@@ -107,6 +107,7 @@ https://www.figma.com/design/aBVzhicj3XTm5cRiIfHLo0/Farmago-LoFi?node-id=0-1&t=p
 https://www.figma.com/design/VfSddxHJlyzSJewTeFEwJL/Farmago-HiFi?node-id=0-1&t=x245O4WVLdTKDHa8-1
 
 ### Link Video Explainer
+https://youtu.be/xAqWt_Nx_08?si=R-A-c0gb-WU6UQKg
 
 ---
 ## Kartu Asistensi
@@ -119,6 +120,8 @@ https://docs.google.com/document/d/16nUe9MV-1H-M0IJYG8Ci8mfSr5Wdf-x0ilM7TvhgK5M/
 
 ### Asistensi 3
 https://docs.google.com/document/d/1knd8ETWGiNysPDbN3zmONrQg8p-fReixd4v_vYBa7Cc/edit?usp=sharing
+
+---
 
 ## 👥 Kelompok 7 - Adudu
 
